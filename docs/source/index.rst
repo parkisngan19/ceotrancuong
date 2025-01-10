@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Trần Cường - Người Dẫn Dắt Thành Công Thanbai88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Trần Cường <https://thanbai88.win/tran-cuong>`_ là người đứng đầu Thanbai88, sân chơi trực tuyến uy tín được biết đến với các sản phẩm giải trí đa dạng và chất lượng dịch vụ vượt trội. Với kinh nghiệm lâu năm trong ngành chơi game trực tuyến, ông Trần Cường đã lãnh đạo Thanbai88 phát triển mạnh mẽ từ khi thành lập vào năm 2015. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự dẫn dắt của ông, Thanbai88 không chỉ đạt được sự tin tưởng từ cộng đồng người chơi mà còn cam kết mang lại môi trường chơi game công bằng và an toàn. CEO Trần Cường luôn chú trọng đến việc nâng cao trải nghiệm người chơi, bảo mật thông tin và hợp tác với các đối tác uy tín như Evolution Gaming, Microgaming và Playtech, góp phần làm nên thành công và uy tín của Thanbai88 trên thị trường.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 91 Liên Khu 4-5, khu phố 5, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0314310417. 
 
-.. toctree::
+Email: contact@thanbai88.win. 
 
-   usage
-   api
+Website: https://thanbai88.win/tran-cuong 
+
+#trancuong #ceotrancuong #trancuong_thanbai88
